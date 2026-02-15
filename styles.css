@@ -5,11 +5,11 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: black;
+    background-color: #455d7a;
 }
 
 div {
-    background-color: rgba(94, 87, 87, 0.699);
+    background-color: #233142;
     padding: 20px;
     border-radius: 10px;
     text-align: center;
